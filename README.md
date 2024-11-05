@@ -45,6 +45,8 @@ English | [简体中文](./README.zh-cn.md)
 - [Bboysoul的博客](https://tg.bboy.app/)
 - [MakerHunter](https://share.makerhunter.com/)
 - [ChatGPT/AI新闻聚合](https://g4f.icu/)
+- [Abner's memos](https://memos.abnerz6.top/)
+- [Appinn Talk](https://talk.appinn.net/)
 
 ### Platform
 
@@ -115,6 +117,15 @@ SENTRY_PROJECT=SENTRY_PROJECT
 ## Telegram host name and static resource proxy, not recommended to modify
 HOST=telegram.dog
 STATIC_PROXY=
+
+## Enable Google Site Search
+GOOGLE_SEARCH_SITE=memo.miantiao.me
+
+## Enable tags page, separate tags with commas
+TAGS=tag1,tag2,tag3
+
+## Show comments
+COMMENTS=true
 ```
 
 ## 🙋🏻 FAQs
